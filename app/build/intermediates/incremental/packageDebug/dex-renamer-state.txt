@@ -1,0 +1,7 @@
+#Wed Mar 22 20:08:32 KST 2017
+base.0=C\:\\BLE\\SecurityModule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ffd54d8b248185c444c03d3bf73528f34897dcd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\BLE\\SecurityModule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_59b27f4c962eed445a8e601896e6136e5f91fc4b\\classes.dex
+base.1=C\:\\BLE\\SecurityModule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_59b27f4c962eed445a8e601896e6136e5f91fc4b
+file.0=C\:\\BLE\\SecurityModule\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6ffd54d8b248185c444c03d3bf73528f34897dcd\\classes.dex
